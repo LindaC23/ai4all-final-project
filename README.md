@@ -1,11 +1,6 @@
-# (UPDATE IN README.md) Project Title
+# Solar Detection
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
+Created a machine learning model predicting whether a location was optimal for placing solar panels based on power output, employing advanced Python techniques and XGboost regression algorithmn, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator. 
 
 ## Problem Statement <!--- do not change this line -->
 
